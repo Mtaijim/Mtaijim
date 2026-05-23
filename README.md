@@ -17,7 +17,7 @@ Full Stack Developer • Open Source Learner
 ## / about_me
 
 ```txt
-Building scalable backend systems.
+Building scalable systems.
 Learning deeply.
 Improving consistently.
 Focused on Full Stack Development, DSA, and AI.
@@ -37,9 +37,9 @@ Focused on Full Stack Development, DSA, and AI.
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mtaijim&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtaijim&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"/>
 
 </p>
 
@@ -48,7 +48,7 @@ Focused on Full Stack Development, DSA, and AI.
 ## / streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=black-ice&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mtaijim&theme=black-ice&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>
 </p>
 
 ---
