@@ -9,7 +9,7 @@
 <h1 align="center">MTAIJIM SHAIKH</h1>
 
 <p align="center">
-Full Stack Developer • Java Backend Developer • Open Source Learner
+Full Stack Developer • Open Source Learner
 </p>
 
 ---
