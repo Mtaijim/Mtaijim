@@ -39,7 +39,7 @@ $ cat tech-stack.txt
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,js,html,css,tailwind,mongodb,mysql,git,github,vscode,postman,linux&theme=light&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,redux,js,html,css,tailwind,ts,mongodb,mysql,git,github,vscode,postman,linux&theme=light&perline=9" />
 
 </div>
 <br/>
