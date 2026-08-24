@@ -49,7 +49,7 @@ $ cat tech-stack.txt
 <br/>
 
 ```bash
-$ curl --connect mtaijim
+$ curl --connect Mtaijim
 ```
 
 <div align="center">
