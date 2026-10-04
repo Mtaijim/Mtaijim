@@ -20,7 +20,7 @@ mtaijim@dev:~$
 
   name     →  Mtaijim Shaikh
   role     →  Full Stack Developer
-  stack    →  Java · Spring Boot · React · JavaScript
+  stack    →  Java · Spring Boot · React · JavaScript & TypeScript
   focus    →  Scalable Systems · Clean Architecture
   learning →  Spring Boot · React · DSA · AI Integration
   values   →  Consistency · Depth · Craft
