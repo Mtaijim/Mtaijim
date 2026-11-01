@@ -24,7 +24,7 @@ mtaijim@dev:~$
   focus    →  Scalable Systems · Clean Architecture
   learning →  Spring Boot · React · DSA · AI Integration
   values   →  Consistency · Depth · Craft
-  status   →  Building in silence. Growing in public.
+  status   →  Building .
 ```
 
 <br/>
